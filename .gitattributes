@@ -1,0 +1,43 @@
+# Media is binary. Git should not diff, merge, or normalize line endings.
+# Files stay as normal blobs (not Git LFS) so raw.githubusercontent.com
+# links return the bytes Buffer needs.
+
+# Stills
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.jpe binary
+*.gif binary
+*.webp binary
+*.avif binary
+*.bmp binary
+*.tif binary
+*.tiff binary
+*.heic binary
+*.heif binary
+*.ico binary
+
+# Video
+*.mp4 binary
+*.m4v binary
+*.mov binary
+*.webm binary
+*.mkv binary
+*.avi binary
+*.mpg binary
+*.mpeg binary
+
+# Audio
+*.mp3 binary
+*.wav binary
+*.flac binary
+*.aac binary
+*.m4a binary
+*.ogg binary
+*.aiff binary
+*.aif binary
+
+# Design sources
+*.psd binary
+*.psb binary
+*.ai binary
