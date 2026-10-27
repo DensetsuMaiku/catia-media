@@ -5,4 +5,4 @@
 - Post: https://www.instagram.com/p/De-iPhGk_sj/
 - Source: Meta Energy still me-019, evening soundcheck crop 1080x1350, face-checked by Rosinante.
 - Target finals path once the JPG lands: finals/stills/2026-10-26_meta_evening-soundcheck.jpg
-- Note: Rosinante's GitHub connector push is text-only, so the JPG itself comes via web upload. This note is the still's working record until then.
+- Status: JPG landed 2026-10-26 at finals/stills/2026-10-26_meta_evening-soundcheck.jpg (web upload, commits cee3da2 + 4fad3a2).
